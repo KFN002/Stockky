@@ -1,0 +1,6 @@
+This is a small game about stocks made using python and PyQt5.
+To see information about a stock you should click once, to buy or sell click twice.
+In order to earn money and continue the game press "Work one day".
+Every five days would happen an event, that will affect on prices of stocks.
+You receive dividends every 1st day of a month.
+Click "History" to see past actions.
